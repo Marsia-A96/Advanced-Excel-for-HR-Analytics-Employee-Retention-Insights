@@ -2,6 +2,7 @@
 This project explores HR analytics, employee attrition, and job satisfaction trends using Pivot Tables, advanced Excel formulas, and visual reporting tools to analyze key HR metrics.
 
 🚀 Key Features:
+
 ✅ Employee Attrition Analysis to detect patterns in employee turnover
 
 ✅ Work-Life Balance & Job Satisfaction Insights based on employee data
